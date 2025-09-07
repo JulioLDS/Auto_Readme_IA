@@ -37,4 +37,5 @@ Antes da IA:
 Depois da IA:
 
 ![Depois](images/depois.png)
+
 ![Depois 2](images/depois2.png)
